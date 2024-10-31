@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #04dff7;
+    color: #efeb0e;
     text-align: center;
     padding: 20px 0;
 }
@@ -29,7 +29,7 @@ img {
 }
 
 a {
-    color: #333;
+    color: #333333;
     text-decoration: none;
     background-color: #fff;
     padding: 10px 20px;
@@ -37,7 +37,7 @@ a {
 }
 
 a:hover {
-    background-color: #999;
+    background-color: #05dbf8;
     color: #fff;
 }
 
